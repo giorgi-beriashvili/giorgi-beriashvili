@@ -27,7 +27,16 @@ I started coding from scratch at 17 and share my entire journey—including mist
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com/li/georgiy-beriashvili)
-[![Telegram](https://shields.io)](https://t.me/DexwellIt)
-[![Journey Channel](https://shields.io)](https://t.me/DexwellJourney)
+<p align="left">
+  <a href="https://linkedin.com/in/georgiy-beriashvili" target="_blank">
+    <img src="https://githubusercontent.com" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://t.me/DexwellIt" target="_blank">
+    <img src="https://githubusercontent.com" alt="Telegram" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://t.me/DexwellJourney" target="_blank">
+    <img src="https://githubusercontent.com" alt="Journey Channel" width="40" height="40"/>
+  </a>
+</p>
+
 
