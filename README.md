@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Giorgi 👋
 
-<!--
-**giorgi-beriashvili/giorgi-beriashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer from Baku 🇦🇿, studying at Baku Engineering University & Inha University (Dual Degree Program).
+I build web applications with Python, Django, and Django REST Framework, while gradually expanding my knowledge into cybersecurity.
 
-Here are some ideas to get you started:
+I started coding from scratch at 17 and share my entire journey—including mistakes, insights, and behind-the-scenes progress—in my Telegram channel: [Dexwell Journey](https://t.me/DexwellJourney).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Backend:** Python · Django · Django ORM · Django REST Framework (DRF) · aiogram · AsyncIO
+- **Databases:** PostgreSQL · SQLite · relational data modeling · query optimization
+- **Frontend:** JavaScript (Basics)
+- **Tools & DevOps:** Git · GitHub · Docker
+
+## 🔨 Projects
+
+- **[autoservice-platform](https://github.com/giorgi-beriashvili/autoservice-platform)**: A web platform for managing car repairs and scheduling services *(currently building)*
+- **[aden-codex](https://github.com/giorgi-beriashvili/aden-codex)**: Django backend for a Lineage 2 database. Features deep optimization: many-to-many relations, N+1 query troubleshooting, composite indexes, and a fully customized admin panel.
+- **[Voltify-Telegram-shop-bot-](https://github.com/giorgi-beriashvili/Voltify-Telegram-shop-bot-)**: An automated Telegram bot for an electronics e-commerce store, built using asynchronous code with aiogram.
+- **[media_club](https://github.com/giorgi-beriashvili/media_club)**: Django web application developed as the final project for Harvard's CS50 Web course.
+
+## 🎯 Currently
+
+- Building the `autoservice-platform` core architecture
+- Learning React to build modern frontends for my personal projects
+- Deepening my understanding of Linux and cybersecurity fundamentals
+
+## 📫 Connect with me
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/georgiy-b-05ab3b412)
+[![Telegram](https://shields.io)](https://t.me/g_brsh_13)
+[![Telegram Channel](https://shields.io)](https://t.me/DexwellJourney)
