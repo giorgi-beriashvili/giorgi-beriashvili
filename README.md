@@ -3,7 +3,7 @@
 Backend developer from Baku 🇦🇿, studying at Baku Engineering University.
 I build with Python and Django, and I'm slowly moving toward cybersecurity.
 
-I started coding from zero at 18 and share the whole journey, mistakes included, in my Telegram channel: [Dexwell Journey](https://t.me/DexwellJourney).
+I started coding from zero at 17 and share the whole journey, mistakes included, in my Telegram channel: [Dexwell Journey](https://t.me/DexwellJourney).
 
 ## 🛠️ What I work with
 
